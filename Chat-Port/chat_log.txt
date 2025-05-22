@@ -1,0 +1,11 @@
+[2025-05-22T13:17:32.284082600] flavio conectou.
+[2025-05-22T13:19:47.407817] Junior conectou.
+[2025-05-22T13:19:55.978907200] flavio: teste
+[2025-05-22T13:20:01.492079200] Junior: teste
+[2025-05-22T13:20:21.499720100] flavio desconectou.
+[2025-05-22T13:20:35.388417200] Junior desconectou.
+[2025-05-22T14:17:52.833013300] bob conectou.
+[2025-05-22T14:18:07.662589100] bob: Ol�, o meu nome � bob
+[2025-05-22T14:18:21.983163700] bob: tenho 25 anos
+[2025-05-22T14:18:33.416728200] bob: Estou de saida
+[2025-05-22T14:18:35.728863400] bob desconectou.
