@@ -9,3 +9,6 @@
 [2025-05-22T14:18:21.983163700] bob: tenho 25 anos
 [2025-05-22T14:18:33.416728200] bob: Estou de saida
 [2025-05-22T14:18:35.728863400] bob desconectou.
+[2025-05-22T14:45:19.237280800] teste conectou.
+[2025-05-22T14:45:32.776848400] teste: Mensagem de teste
+[2025-05-22T14:45:40.634509800] teste desconectou.
